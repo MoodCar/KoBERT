@@ -26,6 +26,43 @@ train accuracy : 63.55
 
 test accruacy : 55.08
 
+
+
+|hyper parameter|value|
+|---|---|
+|max_len|64|
+|batch_size|128|
+|epochs|30|
+|dropout|0.3(encoder), 0.5(cls)|
+|label_smoothing|0.1|
+|lr|2.5e-5|
+
+<br/>
+
+train accuracy : 78.82
+
+
+test accruacy : 53.18
+
+
+
+|hyper parameter|value|
+|---|---|
+|max_len|64|
+|batch_size|32|
+|epochs|10|
+|dropout|0.3(encoder), 0.5(cls)|
+|label_smoothing|0.1|
+|lr|2.5e-5|
+
+<br/>
+
+train accuracy : ??
+
+
+test accruacy : ??
+
+
 ### ITPT
 
 |hyper parameter|value|
