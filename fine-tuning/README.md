@@ -57,10 +57,10 @@ test accruacy : 53.18
 
 <br/>
 
-train accuracy : ??
+train accuracy : 67.54
 
 
-test accruacy : ??
+test accruacy : 54.10
 
 
 ### ITPT
