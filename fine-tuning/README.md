@@ -94,6 +94,22 @@ test accuracy : 54.8
 test accuracy : 53.8
 
 
+<br/>
+
+|hyper parameter|value|
+|---|---|
+|max_len|64|
+|batch_size|32|
+|epochs|10|
+|dropout|0.2(encoder), 0.5(cls)|
+|epsilon|0.95|
+|lr|2e-5|
+|label smoothing|0.1|
+
+<br/>
+test accuracy : 55.97
+
+
 ### Layer-wise Decreasing Layer Rate drop 놀람 data
 
 |hyper parameter|value|
